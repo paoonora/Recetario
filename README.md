@@ -18,3 +18,7 @@ Para sacarle todo el jugo a esta guía, te propongo seguir el siguiente formato:
 2. Revolver con cuchara de madera
 3. Una vez que la mezcla sea homogénea, incorporar la Sustancia X
 4. Inmediatamente, usted obtendrá 3 chicas superpoderosas
+
+## Autores
+*Acá podés poner tu nombre, y enlaces a tus redes sociales, si lo deseás!*
+
