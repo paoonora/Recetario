@@ -5,7 +5,7 @@
 
 *Si querés ponerle onda al texto, acá vas a encontrar una [guía para escribir en github](https://help.github.com/es/github/writing-on-github).*
 
-Para sacarle todo el jugo a esta guía, te propongo seguir el siguiente formato: 
+Para sacarle jugo a esta guía, te propongo que sigas el siguiente formato: 
 # Nombre de la Receta
 ## Ingredientes
 - Azúcar 1kg
