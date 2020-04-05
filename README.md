@@ -6,7 +6,7 @@
 *Si querés ponerle onda al texto, acá vas a encontrar una [guía para escribir en github](https://help.github.com/es/github/writing-on-github).*
 
 Para sacarle jugo a esta guía, te propongo que sigas el siguiente formato: 
-# Nombre de la Receta
+# Nombre de la Receta: En este caso "Chicas Superpoderosas"
 ## Ingredientes
 - Azúcar 1kg
 - Flores 500gr
