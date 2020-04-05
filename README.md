@@ -5,6 +5,8 @@
 
 *Si querés ponerle onda al texto, acá vas a encontrar una [guía para escribir en github](https://help.github.com/es/github/writing-on-github).*
 
+*Por ejemplo, este README [está escrito así](https://raw.githubusercontent.com/micuherrera/Recetario/master/README.md)*
+
 Para sacarle jugo a esta guía, te propongo que sigas el siguiente formato: 
 # Nombre de la Receta: En este caso "Chicas Superpoderosas"
 ## Ingredientes
@@ -18,3 +20,5 @@ Para sacarle jugo a esta guía, te propongo que sigas el siguiente formato:
 2. Revolver con cuchara de madera
 3. Una vez que la mezcla sea homogénea, incorporar la Sustancia X
 4. Inmediatamente, usted obtendrá 3 chicas superpoderosas
+
+
